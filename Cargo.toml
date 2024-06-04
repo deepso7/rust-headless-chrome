@@ -24,7 +24,7 @@ tempfile = "3"
 thiserror = "1"
 ureq = { version = "2.5", optional = true, features = ["proxy-from-env"] }
 walkdir = { version = "2", optional = true }
-tungstenite = "0.23.0"
+tungstenite = "0.21.0"
 url = "2.3"
 which = "6.0.1"
 zip = { version = "2.1.2", optional = true }
